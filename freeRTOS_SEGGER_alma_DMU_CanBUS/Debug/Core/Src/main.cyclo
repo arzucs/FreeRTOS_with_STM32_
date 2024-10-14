@@ -1,0 +1,10 @@
+../Core/Src/main.c:119:5:main	3
+../Core/Src/main.c:247:6:SystemClock_Config	3
+../Core/Src/main.c:294:13:MX_ADC1_Init	3
+../Core/Src/main.c:346:13:MX_CAN1_Init	3
+../Core/Src/main.c:397:13:MX_GPIO_Init	1
+../Core/Src/main.c:442:6:HAL_CAN_RxFifo0MsgPendingCallback	1
+../Core/Src/main.c:463:6:StartDefaultTask	1
+../Core/Src/main.c:482:6:StartTask02	1
+../Core/Src/main.c:504:6:StartTask03	1
+../Core/Src/main.c:519:6:Error_Handler	1
